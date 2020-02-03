@@ -1,0 +1,8 @@
+F:\MR\1-Me_project\Car accounting\bin\Debug\Car accounting.exe.config
+F:\MR\1-Me_project\Car accounting\bin\Debug\Car accounting.exe
+F:\MR\1-Me_project\Car accounting\bin\Debug\Car accounting.pdb
+F:\MR\1-Me_project\Car accounting\obj\Debug\Car accounting.csprojAssemblyReference.cache
+F:\MR\1-Me_project\Car accounting\obj\Debug\Car_accounting.Properties.Resources.resources
+F:\MR\1-Me_project\Car accounting\obj\Debug\Car accounting.csproj.GenerateResource.cache
+F:\MR\1-Me_project\Car accounting\obj\Debug\Car accounting.exe
+F:\MR\1-Me_project\Car accounting\obj\Debug\Car accounting.pdb
